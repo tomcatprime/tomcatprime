@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tomcatprime
-- 👀 I’m interested in Cyber Secutiry, DevOps and C# programming.
+- 👀 I’m interested in Cyber Security, DevOps and C# programming.
 
