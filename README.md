@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomcatprime&label=Profile%20views&color=0e75b6&style=flat" alt="tomcatprime" /> </p>
 
-- 🔭 I’m currently working as Service Desk Analyst L2 **Service Desk Analyst L2**
+- 🔭 I’m currently working as **Service Desk Analyst L2**
 
 - 🌱 I’m currently learning **Azure&GCP, C#, Python**
 
