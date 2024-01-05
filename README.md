@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Service Desk Analyst L2 **Service Desk Analyst L2**
 
-- 🌱 I’m currently learning **Azure&GCP, C++, Python**
+- 🌱 I’m currently learning **Azure&GCP, C#, Python**
 
 - 🤝 I’m looking for help with **Employment.**
 
